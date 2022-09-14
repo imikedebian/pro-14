@@ -321,7 +321,7 @@ nav {
 }
 
 .dance-sec-mid p {
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -648,4 +648,14 @@ nav {
   .dance-sec-right {
     display: none;
   }
+
+  .dance-sec-mid br {
+    display: none;
+  }
+
+  .dance-sec-mid p {
+    text-align: center;
+  }
+
+
 }
